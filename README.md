@@ -6,8 +6,8 @@
 
 ## Work
 
-* I currently work as a Research Aide at Argonne National Laboratory, primarily working on software development and research in open source Python project [UXarray](https://github.com/UXARRAY/)
-* Former SULI Intern at Argonne National Laboratory
+* I currently work as a SULI Intern at Argonne National Laboratory, primarily working on software development and research in open source Python project [UXarray](https://github.com/UXARRAY/)
+* Former Research Aide at Argonne National Laboratory
 
 ## Education
 
